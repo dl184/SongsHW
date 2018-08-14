@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #DB3D3D;
+
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  color: black;
+}
+
+li{
+  padding-bottom: 30px;
+  font-size: 17px;
+}
+
+ol {
+  float:right;
+}
+
+.song-details{
+  float: left;
+  display: grid;
+  grid-auto-flow: row;
+  width: auto;
+}
+
+audio{
+  width: 170px;
+}
